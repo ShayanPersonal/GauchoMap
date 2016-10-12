@@ -1,0 +1,9 @@
+#openMapBtn {
+    padding: 3px 7px;
+    background: #bcd6ff;
+    border-radius: 15px;
+}
+
+#openMapBtn:hover {
+  cursor: pointer;
+}
